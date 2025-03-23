@@ -1,7 +1,5 @@
 # EcoMeet
 
-![EcoMeet Logo](./generated-icon.png)
-
 A sustainable solution for planning group gatherings that minimizes environmental impact through optimized transit options and intelligent location selection.
 
 ## Inspiration
